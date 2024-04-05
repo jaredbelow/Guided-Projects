@@ -1,0 +1,3 @@
+01-23-2024	05:57:46 PM	cae055b4-9249-4525-af7b-803a4d070586	Error: Not allowed by CORS
+01-23-2024	06:00:46 PM	053db24b-2ed0-43fb-ac04-311d0f0f58cf	TypeError: req.sendFile is not a function
+01-23-2024	06:17:30 PM	cf92af86-441b-4c98-8565-027f1bd26600	Error: ENOENT: no such file or directory, stat 'C:\Users\EL33T\Desktop\Web Dev Practice\nodeJS - Practice\routes\views\index.html'
